@@ -2,6 +2,10 @@ body {
   background-color: grey;
   margin-top: 60px;
 }
+.body {
+  margin-left: 10%;
+  margin-right: 10%;
+}
 .container {
   background-color: rgb(200,100,255);
   border-color: black;
