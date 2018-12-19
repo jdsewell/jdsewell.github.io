@@ -32,3 +32,10 @@ nav {
 ul {
   list-style: none;
 }
+#contact {
+  width: 35%;
+
+}
+#experience {
+  width: 60%;
+}
