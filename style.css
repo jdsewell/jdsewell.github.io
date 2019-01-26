@@ -8,21 +8,24 @@ body {
   margin-right: 5%;
 }
 .title {
-  background-color: rgb(200,100,255);
-  border-color: black;
-  border-style: solid;
-  border-width: 1px;
-  border-radius: 2px;
+  /* background-color: rgb(200,100,255); */
+  border-bottom-color: black;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
   padding: 1% 2% 1% 2%;
   text-align: center;
   vertical-align: middle;
 }
 
 a:link {
-  color: black;
+  color: white;
 }
 
 a:visited {
+  color: white;
+}
+
+a:hover {
   color: black;
 }
 
@@ -33,10 +36,11 @@ a:visited {
   border-bottom-color: rgb(100,0,0);
 }
 .nav li {
-  background-color: white;
+  background-color: rgb(100,0,0);
   margin: 2px 4px 2px 4px;
   border-radius: 10px;
 }
+
 .cat {
   margin-top: 1%;
   background-color: rgb(100,100,255);
