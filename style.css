@@ -1,5 +1,5 @@
 body {
-  background-color: grey;
+  background-color: rgb(200,200,200);
   margin-top: 60px;
   margin-bottom: 20px;
 }
@@ -26,8 +26,16 @@ a:visited {
   color: black;
 }
 
-nav {
-  background-color: grey;
+.navbar {
+  background-color: rgb(200,0,0);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: rgb(100,0,0);
+}
+.nav li {
+  background-color: white;
+  margin: 2px 4px 2px 4px;
+  border-radius: 10px;
 }
 .cat {
   margin-top: 1%;
