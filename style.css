@@ -79,6 +79,9 @@ ul {
 #contact a {
   color: black;
 }
+#contact .blurb {
+  font-size: 1vw;
+}
 #experience {
   /* width: 40%; */
 }
