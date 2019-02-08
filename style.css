@@ -85,6 +85,11 @@ ul {
 #experience {
   /* width: 40%; */
 }
+#portfolio {
+  background-color: rgb(100,100,100);
+  padding: 1%;
+  
+}
 
 .blurb {
   background-color: white;
