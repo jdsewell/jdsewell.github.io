@@ -86,11 +86,16 @@ ul {
   /* width: 40%; */
 }
 #portfolio {
-  background-color: rgb(100,100,100);
+  background-color: rgb(130,130,130);
   padding: 1%;
-  
+  color: black;
 }
-
+#portfolio a {
+  color: black;
+}
+.portfolio {
+  margin: 5% 2% 5% 2%;
+}
 .blurb {
   background-color: white;
   border-width: 1px;
