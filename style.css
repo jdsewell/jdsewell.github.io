@@ -89,9 +89,21 @@ ul {
   background-color: rgb(130,130,130);
   padding: 1%;
   color: black;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: black;
 }
 #portfolio a {
   color: black;
+  background-color: white;
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+  padding: 2px;
+}
+#portfolio a:hover {
+  font-size: 130%;
 }
 .portfolio {
   margin: 5% 2% 5% 2%;
