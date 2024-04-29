@@ -4,19 +4,22 @@ body {
   margin-bottom: 20px;
 }
 .body {
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+  padding: 2%;
   margin-left: 5%;
   margin-right: 5%;
 }
 .title {
-  /* background-color: rgb(200,100,255); */
   border-bottom-color: grey;
   border-bottom-style: solid;
   border-bottom-width: 2px;
-  padding: 1% 2% 1% 2%;
+  /*padding: 1% 2% 1% 2%;
   /* text-align: center;
   vertical-align: middle; */
 }
-.title h1 {
+/*.title h1 {
   border-right-style: solid;
   border-right-color: grey;
   border-right-width: 2px;
@@ -25,7 +28,7 @@ body {
   border-bottom-width: 2px;
   padding: 2%;
   border-bottom-right-radius: 10px;
-}
+}*/
 .title h4 {
   border-left-style: solid;
   border-left-color: grey;
